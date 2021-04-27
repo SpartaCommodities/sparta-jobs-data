@@ -25,6 +25,7 @@ The client could request the following configurations to the Backend:
     - Ranges: Per day
 
 Data to be sent:
+
     - Timestamp: 27th April 2020
     - Open: 100.0 (value of crude at the begining of the day of 27th April 2020)
     - Close: 150.0 (value of crude at the end of the day of 27th April 2020)
