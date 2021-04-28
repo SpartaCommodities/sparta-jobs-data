@@ -21,6 +21,7 @@ The values that the system needs to return for every segment of time are:
 
 **Example: **
 The client could request the following configurations to the Backend:
+
     - Key: Crude market value
     - Time to be shown: From now to 1 year in the past
     - Ranges: Per day
