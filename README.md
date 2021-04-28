@@ -12,6 +12,7 @@ Our final need is to feed a Trading charts library to plot the data our system i
 
 
 The values that the system needs to return for every segment of time are: 
+
     - Timestamp: Time the read was generated
     - Open: First value of the time segment
     - Close: Last value of the time segment
