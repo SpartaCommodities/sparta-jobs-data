@@ -1,6 +1,6 @@
 # Data Exercise
 
-The goal of this exercise is to design the data storage to store and organise the data we receive from some feeds and that we generated from our own app, that can be used by our system to plot historic charts.
+The goal of this exercise is to design the data storage to store and organise the data we receive from some feeds and that we generated from our own app, to be used by our system to plot historic charts.
 
 Our final need is to feed a Trading charts library to plot the data our system is generating, the client will send the following data configuration for the system to provide the data:
 
